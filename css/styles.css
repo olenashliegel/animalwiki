@@ -1,0 +1,26 @@
+img {
+  width: 300px;
+  margin: 3px;
+
+}
+
+.flexContainer {
+  display: flex;
+}
+
+.float {
+  float: left;
+}
+
+#error p {
+  color: red;
+  font-size: 30px;
+}
+
+#error img {
+  width: 100px;
+}
+
+.hidden {
+  display: none;
+}
